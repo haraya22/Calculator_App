@@ -1,0 +1,17 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+
+# Python Byte Code & Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Environment Variable Files (API Keys / Secrets)
+.env
